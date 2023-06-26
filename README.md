@@ -1,2 +1,2 @@
 # AI-Project_SmartParking
-Dedicated to save IA exercices 
+Dedicated to save progress from IA project

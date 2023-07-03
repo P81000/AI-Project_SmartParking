@@ -1,0 +1,11 @@
+#path: "yolov8"
+train: /content/yolo_data/images/train
+#test: "yolov8/test"
+val: /content/yolo_data/images/val
+
+nc: 3
+
+names:
+  - person
+  - moto
+  - car

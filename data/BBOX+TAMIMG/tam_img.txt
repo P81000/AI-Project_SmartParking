@@ -1,0 +1,31 @@
+A2_vid1
+widht = 850
+height = 1080
+
+A2_vid2
+widht = 850
+height = 1080
+
+A2_vid3
+widht = 850
+height = 1100
+
+A3_vid1
+widht = 800
+height = 950
+
+A3_vid2
+widht = 900
+height = 1000
+
+A3_vid3
+widht = 800
+height = 950
+
+A3_vid4
+widht = 900
+height = 1090
+
+A3_vid5
+widht = 850
+height = 1000

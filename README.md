@@ -2,6 +2,8 @@
 
 Welcome to the Intelligent Parking System project repository, developed for the UNIFESP campus in São José dos Campos. This project leverages artificial intelligence and convolutional neural networks using the YOLOv8 model from Ultralytics.
 
+EDIT - Added the path to Train and Test folders on drive, 'cause this dir cannot be uploaded to repo
+
 ## Project Objective
 
 The main objective of this repository is to track the progress of building an intelligent parking system. By utilizing advanced computer vision techniques with the YOLO model, the project aims to detect and identify vehicles in parking spaces at the UNIFESP campus. This approach provides real-time monitoring and counting of available and occupied parking spots, offering users a more efficient and streamlined parking experience.

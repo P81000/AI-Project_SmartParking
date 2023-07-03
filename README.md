@@ -25,6 +25,8 @@ This project was developed by the following collaborators:
 
 For any questions, ideas, or requests for code access, please feel free to reach out to us. We will be happy to provide the necessary files and assistance.
 
+OBS: The train and test folders (that ones with labels, networks, graphics...) cannot be pushed to repo, so I'm available to share with anyone interested, the drive link with the data.
+
 Contact: Pedro Henrique Masteguin
 - LinkedIn: [linkedin.com/in/pedro-masteguin](https://www.linkedin.com/in/pedro-masteguin)
 - GitHub: [github.com/P81000](https://github.com/P81000)
